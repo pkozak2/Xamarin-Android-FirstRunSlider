@@ -4,7 +4,7 @@ using Android.OS;
 
 namespace FirstRunSlider
 {
-    [Activity(Label = "FirstRunSlider", MainLauncher = true)]
+    [Activity(Label = "FirstRunSlider")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)

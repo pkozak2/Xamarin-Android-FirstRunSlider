@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>
+
+  <!-- Screens background color-->
+  <color name="bg_screen1">#f64c73</color>
+  <color name="bg_screen2">#20d2bb</color>
+  <color name="bg_screen3">#3395ff</color>
+  <color name="bg_screen4">#c873f4</color>
+
+  <!-- dots active colors -->
+  <string-array name="array_dot_active">
+    <item>#f98da5</item>
+    <item>#8cf9eb</item>
+    <item>#93c6fd</item>
+    <item>#e4b5fc</item>
+  </string-array>
+  
+  <!-- dots inactive colors -->
+  <string-array name="array_dot_inactive">
+    <item>#d1395c</item>
+    <item>#14a895</item>
+    <item>#2278d4</item>
+    <item>#a854d4</item>
+  </string-array>
+</resources>
